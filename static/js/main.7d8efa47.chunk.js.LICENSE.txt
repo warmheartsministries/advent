@@ -1,0 +1,42 @@
+/**
+ * @license Apache-2.0. See license page.
+ * @copyright Cynthia Escano 2021
+ * @description A React component that renders an Blog page.
+ * @component
+ * @returns {Row} The Blog page container
+ * @category Pages
+ */
+
+/**
+ * @license Apache-2.0. See license page.
+ * @copyright Cynthia Escano 2021
+ * @description A component that displays a different
+ * calendar layout depending on the device screen size -
+ * a christmas tree for large devices, a christmas ornament
+ * for medium devices, and a nutcracker for small devices.
+ * Calendar days are basically buttons returned by {@link CalendarButton}.
+ * @param props {CalendarPanelProps}
+ * @returns {Row} The container for the calendar
+ * @component
+ *
+ * @author Cynthia Escano
+ */
+
+/**
+ * @license Apache-2.0. See license page.
+ * @copyright Cynthia Escano 2021
+ * @description The props interface for the {@link CalendarPanel}.
+ * @interface
+ */
+
+/**
+ * @license Apache-2.0. See license page.
+ * @copyright Cynthia Escano 2021
+ * @description The props interface for {@link CalendarItemModal}
+ * @interface
+ */
+
+/**
+ * @license Apache-2.0. See license page.
+ * @copyright Cynthia Escano 2021
+ */

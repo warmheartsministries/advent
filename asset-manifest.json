@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/advent/static/css/main.e560f2c8.chunk.css",
+    "main.js": "/advent/static/js/main.7d8efa47.chunk.js",
+    "main.js.map": "/advent/static/js/main.7d8efa47.chunk.js.map",
+    "runtime-main.js": "/advent/static/js/runtime-main.52e8c9d0.js",
+    "runtime-main.js.map": "/advent/static/js/runtime-main.52e8c9d0.js.map",
+    "static/css/2.4659568d.chunk.css": "/advent/static/css/2.4659568d.chunk.css",
+    "static/js/2.f068db5f.chunk.js": "/advent/static/js/2.f068db5f.chunk.js",
+    "static/js/2.f068db5f.chunk.js.map": "/advent/static/js/2.f068db5f.chunk.js.map",
+    "static/js/3.f1a6fe8d.chunk.js": "/advent/static/js/3.f1a6fe8d.chunk.js",
+    "static/js/3.f1a6fe8d.chunk.js.map": "/advent/static/js/3.f1a6fe8d.chunk.js.map",
+    "index.html": "/advent/index.html",
+    "static/css/2.4659568d.chunk.css.map": "/advent/static/css/2.4659568d.chunk.css.map",
+    "static/css/main.e560f2c8.chunk.css.map": "/advent/static/css/main.e560f2c8.chunk.css.map",
+    "static/js/2.f068db5f.chunk.js.LICENSE.txt": "/advent/static/js/2.f068db5f.chunk.js.LICENSE.txt",
+    "static/js/main.7d8efa47.chunk.js.LICENSE.txt": "/advent/static/js/main.7d8efa47.chunk.js.LICENSE.txt",
+    "static/media/img_advent_2.6ba9bc48.png": "/advent/static/media/img_advent_2.6ba9bc48.png",
+    "static/media/img_advent_3.eb9a6dd5.png": "/advent/static/media/img_advent_3.eb9a6dd5.png",
+    "static/media/img_advent_lg.875715f2.png": "/advent/static/media/img_advent_lg.875715f2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52e8c9d0.js",
+    "static/css/2.4659568d.chunk.css",
+    "static/js/2.f068db5f.chunk.js",
+    "static/css/main.e560f2c8.chunk.css",
+    "static/js/main.7d8efa47.chunk.js"
+  ]
+}
